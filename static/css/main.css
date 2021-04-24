@@ -1,0 +1,61 @@
+body{
+    overflow: hidden;
+}
+
+input{
+    background-color: #5F6A6A;
+  border: none;
+  color: white;
+  padding: 5px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 36px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.but{
+    background-color: rgb(236, 41, 41);
+    font-size: 30px;
+    margin: 2px 2px;
+    padding: 5px 15px;
+}
+
+.dot{
+    font-size: 36px;
+    margin: 4px 2px;
+    padding: 5px 25px;
+    
+}
+
+.sign{
+    background-color: #3498DB; 
+}
+.sign1{
+    background-color: #3498DB; 
+    padding: 37px 25px;
+}
+
+.sign2{
+    background-color: #3498DB; 
+    padding: 5px 55px;
+}
+
+.table{
+    position: relative;
+    left: 38%;
+    top: 290px;
+    position: fixed;
+} 
+h1{
+    position: relative;
+    left: 38%;
+    top: 120px;
+}
+
+h2{
+    position: relative;
+    left: 55%;
+    top: 120px;
+}
